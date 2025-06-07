@@ -1,0 +1,1 @@
+This project is a Sentiment Analysis Web Application built with Streamlit. It allows users to input text (e.g., movie reviews, product feedback), and uses TF-IDF vectorization with Logistic Regression to classify sentiment as Positive, Negative, or Neutral.
